@@ -1,0 +1,57 @@
+HTML:
+
+1.	Nuevo  título de la página.
+2.	Header sobre la domótica.
+3.	Nuevo ítem en el menú.
+4.	Modificación de la página de contacto.
+5.	Creación de la página de cada artículo.
+6.	Darle nuevas clases a los elementos.
+7.	Agregar una caja para el título de la página blog.
+8.	Eliminar los botones de retroceder o avanzar en el blog.
+
+
+
+CSS:
+
+1.	La fuente de los h1
+2.	Cambiar la imagen del fondo del body.
+3.	Aumentar el tamaño de las imágenes en áreas de conocimientos.
+4.	Color de la barra de menú.
+5.	Tamaño del texto del menú.
+6.	Estilo del título h1 ‘oblique’
+7.	Color celeste a la caja de texto en el index.
+8.	Borde con sombreado a la caja de texto del index.
+9.	Reducción del padding del footer.
+10.	Color del texto del footer gris.
+11.	Border desenfocado a la caja principal del index.
+12.	El width de los hr en la página About aumentó.
+13.	Mayor espaciado entre las imágenes de about.
+14.	Fondo del texto blanco en About.
+15.	Borde de las imágenes sólido.
+16.	Borde de las imágenes grueso.
+17.	Borde de las imágenes color gris
+18.	División para cada artículo en la página blog.
+19.	Título de la página blog con fondo azul.
+20.	Título con borde interno color azul marino.
+21.	Color de fondo del blog blanco.
+22.	Borde fino y esquinas redondeadas a las imágenes del blog.
+23.	Botones del blog gris.
+24.	Texto de los botones del blog blanco.
+25.	Aplicación de la fuente "Josefin Slab","Helvetica Neue" en los títulos de la página blog.
+26.	Reducción del tamaño de los h2.
+27.	Texto de la página Tics justificado.
+28.	Espaciado de 5px al título de Tics.
+29.	Padding-bottom de 60 px al box de Tics.
+30.	Espaciado entre el texto de electrodomésticos y la imagen.
+31.	Tamño del texto de electrodomésticos en 12 px.
+32.	Texto alineado a la derecha.
+33.	Línea hr del ancho de la imagen.
+34.	Padding-bottom a la caja del texto en la página ahorro.
+35.	Color beige al fondo del texto.
+36.	Sombra desenfocada al borde de la caja del texto.
+37.	Color de las cajas del formulario negras.
+38.	Color del texto del contact-form blanco.
+39.	Background-color morado a la imagen png de la página programación.
+40.	Tamaño de letra small en la página de programación.
+41.	Mayor padding entre la imagen y el texto.
+42.	Fondo rgba al texto de la página de bootstrap.
